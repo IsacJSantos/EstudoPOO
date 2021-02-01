@@ -1,0 +1,13 @@
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.exe
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.deps.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.runtimeconfig.dev.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\bin\Debug\netcoreapp3.1\Nota.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.csprojAssemblyReference.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.AssemblyInfo.cs
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio5\Nota\Nota\obj\Debug\netcoreapp3.1\Nota.genruntimeconfig.cache

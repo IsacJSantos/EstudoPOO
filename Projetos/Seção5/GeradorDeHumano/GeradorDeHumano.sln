@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDeHumano", "GeradorDeHumano\GeradorDeHumano.csproj", "{86DE6656-F13A-4152-A44C-26B1C76D2542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DE6656-F13A-4152-A44C-26B1C76D2542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DE6656-F13A-4152-A44C-26B1C76D2542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DE6656-F13A-4152-A44C-26B1C76D2542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DE6656-F13A-4152-A44C-26B1C76D2542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF741688-FE71-49CB-A45A-AEE796D1956F}
+	EndGlobalSection
+EndGlobal
