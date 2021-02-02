@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Área de Trabalho\\Isac\\EstudoC#\\CursoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\CriadorDeConaBancaria.csproj",
+      "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\CriadorDeConaBancaria.csproj",
       "projectName": "CriadorDeConaBancaria",
-      "projectPath": "D:\\Área de Trabalho\\Isac\\EstudoC#\\CursoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\CriadorDeConaBancaria.csproj",
+      "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\CriadorDeConaBancaria.csproj",
       "packagesPath": "C:\\Users\\isacj\\.nuget\\packages\\",
-      "outputPath": "D:\\Área de Trabalho\\Isac\\EstudoC#\\CursoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\obj\\",
+      "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção5\\Exercicios\\Exercicio1\\CriadorDeConaBancaria\\CriadorDeConaBancaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isacj\\AppData\\Roaming\\NuGet\\NuGet.Config",
