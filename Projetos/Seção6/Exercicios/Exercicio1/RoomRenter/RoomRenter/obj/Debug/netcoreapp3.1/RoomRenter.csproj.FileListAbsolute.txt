@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\bin\Debug\netcoreapp3.1\RoomRenter.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio1\RoomRenter\RoomRenter\obj\Debug\netcoreapp3.1\RoomRenter.genruntimeconfig.cache
