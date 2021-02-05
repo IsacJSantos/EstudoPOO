@@ -15,5 +15,15 @@ namespace ModificardorParams
             }
             return result;
         }
+        // both ref and out are code smell
+        public static void Triple(ref int x) 
+        {
+            x *= 3;
+        }
+        public static void Triple(int x, out int result) 
+        {
+            x *= 3;
+            result = x;
+        }
     }
 }
