@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\bin\Debug\netcoreapp3.1\MatrixExercise.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção6\Exercicios\Exercicio3\MatrixExercise\MatrixExercise\obj\Debug\netcoreapp3.1\MatrixExercise.genruntimeconfig.cache
