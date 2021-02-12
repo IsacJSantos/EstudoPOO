@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Course
+namespace TypeInference
 {
     class Program
     {
@@ -15,6 +15,7 @@ namespace Course
             Console.WriteLine(y.GetType() + ": " + y);
             Console.WriteLine(z.GetType() + ": " + z);
             Console.WriteLine(w.GetType() + ": " + w);
+
         }
     }
 }
