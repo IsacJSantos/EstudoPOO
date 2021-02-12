@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção7\\Course\\Course\\Course.csproj",
-      "projectName": "Course",
-      "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção7\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção7\\Course\\Course\\TypeInference.csproj",
+      "projectName": "TypeInference",
+      "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção7\\Course\\Course\\TypeInference.csproj",
       "packagesPath": "C:\\Users\\isacj\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção7\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
