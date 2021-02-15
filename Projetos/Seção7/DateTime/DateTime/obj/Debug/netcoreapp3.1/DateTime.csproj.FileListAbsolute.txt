@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
