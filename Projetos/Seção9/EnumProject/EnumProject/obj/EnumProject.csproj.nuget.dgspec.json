@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\Teste\\Teste\\Teste.csproj": {}
+    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\EnumProject\\EnumProject\\EnumProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\Teste\\Teste\\Teste.csproj": {
+    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\EnumProject\\EnumProject\\EnumProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\Teste\\Teste\\Teste.csproj",
-        "projectName": "Teste",
-        "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\Teste\\Teste\\Teste.csproj",
+        "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\EnumProject\\EnumProject\\EnumProject.csproj",
+        "projectName": "EnumProject",
+        "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\EnumProject\\EnumProject\\EnumProject.csproj",
         "packagesPath": "C:\\Users\\isacj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\Teste\\Teste\\obj\\",
+        "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Seção9\\EnumProject\\EnumProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isacj\\AppData\\Roaming\\NuGet\\NuGet.Config",
