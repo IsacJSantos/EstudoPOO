@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\bin\Debug\netcoreapp3.1\EnumProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\EnumProject\EnumProject\obj\Debug\netcoreapp3.1\EnumProject.genruntimeconfig.cache

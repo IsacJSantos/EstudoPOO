@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Teste")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EnumProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Teste")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Teste")]
+[assembly: System.Reflection.AssemblyProductAttribute("EnumProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EnumProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
