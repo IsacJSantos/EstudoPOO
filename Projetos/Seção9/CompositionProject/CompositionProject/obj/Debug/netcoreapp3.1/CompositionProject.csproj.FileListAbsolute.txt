@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\bin\Debug\netcoreapp3.1\CompositionProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\CompositionProject\CompositionProject\obj\Debug\netcoreapp3.1\CompositionProject.genruntimeconfig.cache
