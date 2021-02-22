@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\bin\Debug\netcoreapp3.1\Client_OrderProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\Exercicios\Exercicio1\Client_OrderProject\Client_OrderProject\obj\Debug\netcoreapp3.1\Client_OrderProject.genruntimeconfig.cache
