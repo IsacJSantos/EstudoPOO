@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\bin\Debug\netcoreapp3.1\StringBuilderProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção9\StringBuilderProject\StringBuilderProject\obj\Debug\netcoreapp3.1\StringBuilderProject.genruntimeconfig.cache
