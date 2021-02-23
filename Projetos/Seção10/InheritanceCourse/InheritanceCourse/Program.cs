@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InheritanceCourse.Entities;
+using System;
 
 namespace InheritanceCourse
 {
@@ -6,7 +7,10 @@ namespace InheritanceCourse
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BusinessAccount account = new BusinessAccount(8530,"Isac Santos",1830,1000);
+
+            Console.WriteLine(account.Balance);
+
         }
     }
 }

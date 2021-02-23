@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\bin\Debug\netcoreapp3.1\InheritanceCourse.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\InheritanceCourse\InheritanceCourse\obj\Debug\netcoreapp3.1\InheritanceCourse.genruntimeconfig.cache
