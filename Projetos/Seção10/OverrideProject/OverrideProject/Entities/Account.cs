@@ -21,12 +21,12 @@ namespace InheritanceCourse.Entities
             Balance = balance;
         }
 
-        public  void  WithDraw(double amount) 
+        public virtual void WithDraw(double amount)
         {
-            Balance -= amount;
+            Balance -= amount + 5;
         }
 
-        public void Deposit(double amount) 
+        public void Deposit(double amount)
         {
             Balance += amount;
         }

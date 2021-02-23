@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\bin\Debug\netcoreapp3.1\OverrideProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\OverrideProject\OverrideProject\obj\Debug\netcoreapp3.1\OverrideProject.genruntimeconfig.cache
