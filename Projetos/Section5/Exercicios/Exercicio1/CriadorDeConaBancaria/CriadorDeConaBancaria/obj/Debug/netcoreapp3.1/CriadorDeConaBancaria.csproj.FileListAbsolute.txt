@@ -1,0 +1,13 @@
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.exe
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.deps.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.runtimeconfig.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.runtimeconfig.dev.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\bin\Debug\netcoreapp3.1\CriadorDeConaBancaria.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.csprojAssemblyReference.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.AssemblyInfo.cs
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\Exercicios\Exercicio1\CriadorDeConaBancaria\CriadorDeConaBancaria\obj\Debug\netcoreapp3.1\CriadorDeConaBancaria.genruntimeconfig.cache

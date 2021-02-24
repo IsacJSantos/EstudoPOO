@@ -1,0 +1,13 @@
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.exe
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.deps.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.runtimeconfig.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.runtimeconfig.dev.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\bin\Debug\netcoreapp3.1\CalculoSalario.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.csprojAssemblyReference.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.AssemblyInfo.cs
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\ExerciciosS4\Exercicio4\CalculoSalario\CalculoSalario\obj\Debug\netcoreapp3.1\CalculoSalario.genruntimeconfig.cache

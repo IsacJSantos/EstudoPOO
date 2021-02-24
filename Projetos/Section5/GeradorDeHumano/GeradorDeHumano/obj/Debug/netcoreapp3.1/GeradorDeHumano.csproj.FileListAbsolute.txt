@@ -1,0 +1,13 @@
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.exe
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.deps.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.runtimeconfig.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.runtimeconfig.dev.json
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\bin\Debug\netcoreapp3.1\GeradorDeHumano.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.csprojAssemblyReference.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.AssemblyInfoInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.AssemblyInfo.cs
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.csproj.CoreCompileInputs.cache
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.dll
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.pdb
+D:\Área de Trabalho\Isac\EstudoC#\CursoPOO\Projetos\Seção5\GeradorDeHumano\GeradorDeHumano\obj\Debug\netcoreapp3.1\GeradorDeHumano.genruntimeconfig.cache

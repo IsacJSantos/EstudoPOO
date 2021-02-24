@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\bin\Debug\netcoreapp3.1\DataTimeOperators.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção7\DataTimeOperators\DataTimeOperators\obj\Debug\netcoreapp3.1\DataTimeOperators.genruntimeconfig.cache
