@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\bin\Debug\netcoreapp3.1\ProductManager.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\Exercicios\Exercicio1\ProductManager\ProductManager\obj\Debug\netcoreapp3.1\ProductManager.genruntimeconfig.cache
