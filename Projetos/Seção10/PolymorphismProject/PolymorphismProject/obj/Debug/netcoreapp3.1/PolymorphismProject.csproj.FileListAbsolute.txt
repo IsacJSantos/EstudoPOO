@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\bin\Debug\netcoreapp3.1\PolymorphismProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Seção10\PolymorphismProject\PolymorphismProject\obj\Debug\netcoreapp3.1\PolymorphismProject.genruntimeconfig.cache
