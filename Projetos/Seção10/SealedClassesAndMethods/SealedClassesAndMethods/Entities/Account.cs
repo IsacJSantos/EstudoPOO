@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InheritanceCourse.Entities
+namespace SealedClassesAndMethods.Entities
 {
     class Account
     {
@@ -21,7 +21,7 @@ namespace InheritanceCourse.Entities
             Balance = balance;
         }
 
-        public  void  WithDraw(double amount) 
+        public virtual  void  WithDraw(double amount) 
         {
             Balance -= amount;
         }

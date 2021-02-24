@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InheritanceCourse.Entities
+namespace SealedClassesAndMethods.Entities
 {
     class SavingsAccount : Account
     {
@@ -21,6 +21,12 @@ namespace InheritanceCourse.Entities
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        // This method cannot be overrided again
+        public sealed override void WithDraw(double amount)
+        {
+            base.WithDraw(amount);
         }
 
     }
