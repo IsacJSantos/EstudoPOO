@@ -22,7 +22,7 @@ namespace LinkedListProject.Entities
             sb.Append("[");
 
             Node p = Head;
-            while (p.GetNext() != null)
+            while (p != null)
             {
                 sb.Append(p.GetValue() + " ");
                 p = p.GetNext();
