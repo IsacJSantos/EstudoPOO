@@ -7,7 +7,7 @@ namespace LinkedListProject
     {
         static void Main(string[] args)
         {
-            LinkedList list = new LinkedList();
+            LinkedList<String> list = new LinkedList<String>();
 
             int option;
             do
@@ -18,8 +18,8 @@ namespace LinkedListProject
                 switch (option)
                 {
                     case 1:
-                        Console.Write("Enter a number: ");
-                        double number = double.Parse(Console.ReadLine());
+                        Console.Write("Enter a word: ");
+                        string number = (Console.ReadLine());
                         list.Add(number);
                         break;
                     case 2:
