@@ -4,13 +4,13 @@ using System.Text;
 
 namespace LinkedListProject.Entities
 {
-    class LinkedList
+    class LinkedList<T>
     {
-        private Node Head;
+        private Node<T> Head;
 
-        public void Add(double value) 
+        public void Add(T value) 
         {
-            Node node = new Node(value);
+            Node<T> node = new Node<T>(value);
             node.SetNext(Head);
             Head = node;
         }
@@ -21,7 +21,7 @@ namespace LinkedListProject.Entities
 
             sb.Append("[");
 
-            Node p = Head;
+            Node<T> p = Head;
             while (p != null)
             {
                 sb.Append(p.GetValue() + " ");

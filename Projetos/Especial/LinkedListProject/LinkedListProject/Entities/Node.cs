@@ -4,32 +4,32 @@ using System.Text;
 
 namespace LinkedListProject.Entities
 {
-    class Node
+    class Node<T>
     {
-        private double Value;
-        private Node Next;
+        private T Value;
+        private Node<T> Next;
 
-        public Node(double value)
+        public Node(T value)
         {
             Value = value;
         }
 
-        public void SetValue(double value)
+        public void SetValue(T value)
         {
             Value = value;
         }
 
-        public double GetValue()
+        public T GetValue()
         {
             return Value;
         }
 
-        public void SetNext(Node next)
+        public void SetNext(Node<T> next)
         {
             Next = next;
         }
 
-        public Node GetNext()
+        public Node<T> GetNext()
         {
             return Next;
         }
