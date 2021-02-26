@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\bin\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\AbstractMethods\AbstractMethods\obj\Debug\netcoreapp3.1\AbstractMethods.genruntimeconfig.cache
