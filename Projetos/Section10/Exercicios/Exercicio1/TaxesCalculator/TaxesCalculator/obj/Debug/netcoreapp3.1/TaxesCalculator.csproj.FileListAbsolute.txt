@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\bin\Debug\netcoreapp3.1\TaxesCalculator.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio1\TaxesCalculator\TaxesCalculator\obj\Debug\netcoreapp3.1\TaxesCalculator.genruntimeconfig.cache
