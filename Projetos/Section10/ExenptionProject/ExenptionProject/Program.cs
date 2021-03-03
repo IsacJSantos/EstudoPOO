@@ -14,13 +14,17 @@ namespace ExenptionProject
                 int result = n1 / n2;
                 Console.WriteLine(result);
             }
-            catch (DivideByZeroException) 
+            catch (DivideByZeroException e)
             {
-                Console.WriteLine("Divide por zero não, po!");
+                Console.WriteLine("Error! " + e.Message);
             }
-            catch (FormatException) 
+            catch (FormatException e)
             {
-                Console.WriteLine("Você precisa informar um número");
+                Console.WriteLine("Error! " + e.Message);
+            }
+            finally 
+            {
+                Console.WriteLine("Fim!");
             }
         }
     }
