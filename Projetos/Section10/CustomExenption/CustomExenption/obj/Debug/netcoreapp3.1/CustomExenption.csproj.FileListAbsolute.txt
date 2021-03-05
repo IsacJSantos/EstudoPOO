@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\bin\Debug\netcoreapp3.1\CustomExenption.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\CustomExenption\CustomExenption\obj\Debug\netcoreapp3.1\CustomExenption.genruntimeconfig.cache
