@@ -1,0 +1,13 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\bin\Debug\netcoreapp3.1\ExenptionExercise.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section10\Exercicios\Exercicio2\ExenptionExercise\ExenptionExercise\obj\Debug\netcoreapp3.1\ExenptionExercise.genruntimeconfig.cache
