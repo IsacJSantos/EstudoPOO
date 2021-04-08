@@ -14,6 +14,7 @@ namespace Course
             {
                 FileInfo fileInfo = new FileInfo(sourcePath);
                 string[] lines = File.ReadAllLines(sourcePath);
+                fileInfo.CopyTo(targetPath);
                 foreach (var line in lines)
                 {
                     Console.WriteLine(line);
