@@ -1,0 +1,16 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\ref\Escritor.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\bin\Debug\net5.0\Escritor.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.csprojAssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\ref\Escritor.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Meu Exercício\Escritor\Escritor\obj\Debug\net5.0\Escritor.genruntimeconfig.cache

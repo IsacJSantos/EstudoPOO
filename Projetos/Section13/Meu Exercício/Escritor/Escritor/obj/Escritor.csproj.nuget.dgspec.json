@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\FileStreamEStreamReader\\Course\\Course\\Course.csproj": {}
+    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\Meu Exercício\\Escritor\\Escritor\\Escritor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\FileStreamEStreamReader\\Course\\Course\\Course.csproj": {
+    "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\Meu Exercício\\Escritor\\Escritor\\Escritor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\FileStreamEStreamReader\\Course\\Course\\Course.csproj",
-        "projectName": "Course",
-        "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\FileStreamEStreamReader\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\Meu Exercício\\Escritor\\Escritor\\Escritor.csproj",
+        "projectName": "Escritor",
+        "projectPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\Meu Exercício\\Escritor\\Escritor\\Escritor.csproj",
         "packagesPath": "C:\\Users\\isacj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\FileStreamEStreamReader\\Course\\Course\\obj\\",
+        "outputPath": "C:\\Users\\isacj\\Desktop\\EstudoPOO\\Projetos\\Section13\\Meu Exercício\\Escritor\\Escritor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isacj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
