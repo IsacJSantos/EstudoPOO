@@ -8,9 +8,11 @@ namespace Course
        
         static void Main(string[] args)
         {
-            string sourcePath = @"c:\temp\file1.txt";
+            //string sourcePath = @"c:\temp\file1.txt";
             string targetPath = @"c:\temp\file2.txt";
 
+            Console.Write("Arraste o arquivo para leitura: ");
+            string sourcePath = Console.ReadLine();
             try
             {
                 string[] lines = File.ReadAllLines(sourcePath);

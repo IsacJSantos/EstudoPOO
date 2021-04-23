@@ -10,9 +10,12 @@ namespace Exercise
         static void Main(string[] args)
         {
             List<Item> items = new List<Item>();
-            string sourceCsv = @"C:\Users\isacj\Desktop\PaymentList\Source.csv";
+            // string sourceCsv = @"C:\Users\isacj\Desktop\PaymentList\Source.csv";
 
-            using (StreamReader sr = File.OpenText(sourceCsv))
+            Console.Write("Arraste aqui o arquivo para leitura: ");
+            string source = Console.ReadLine();
+
+            using (StreamReader sr = File.OpenText(source))
             {
                 while (!sr.EndOfStream)
                 {
@@ -29,11 +32,12 @@ namespace Exercise
 
             try
             {
-                string summaryPath = Path.GetDirectoryName(sourceCsv) + @"\out";
-                string summaryCsv = summaryPath + @"\Summary.csv";
+                string summaryPath = Path.GetDirectoryName(source) + @"\out";
+                string extension = Path.GetExtension(source);
+                string summary = summaryPath + @"\Summary."+extension;
                 Directory.CreateDirectory(summaryPath);
 
-                using (StreamWriter sw = File.AppendText(summaryCsv))
+                using (StreamWriter sw = File.AppendText(summary))
                 {
                     foreach (var item in items)
                     {

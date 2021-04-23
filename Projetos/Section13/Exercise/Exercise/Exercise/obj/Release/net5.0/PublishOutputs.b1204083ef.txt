@@ -1,0 +1,5 @@
+C:\Users\isacj\Desktop\Exercise.exe
+C:\Users\isacj\Desktop\Exercise.dll
+C:\Users\isacj\Desktop\Exercise.deps.json
+C:\Users\isacj\Desktop\Exercise.runtimeconfig.json
+C:\Users\isacj\Desktop\Exercise.pdb

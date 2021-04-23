@@ -5,7 +5,6 @@ C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\b
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\bin\Debug\net5.0\Exercise.dll
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\bin\Debug\net5.0\ref\Exercise.dll
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\bin\Debug\net5.0\Exercise.pdb
-C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.csprojAssemblyReference.cache
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
