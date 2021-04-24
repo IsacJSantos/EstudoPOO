@@ -10,7 +10,6 @@ namespace Exercise
         static void Main(string[] args)
         {
             List<Item> items = new List<Item>();
-            // string sourceCsv = @"C:\Users\isacj\Desktop\PaymentList\Source.csv";
 
             Console.Write("Arraste aqui o arquivo para leitura: ");
             string source = Console.ReadLine();
@@ -34,7 +33,7 @@ namespace Exercise
             {
                 string summaryPath = Path.GetDirectoryName(source) + @"\out";
                 string extension = Path.GetExtension(source);
-                string summary = summaryPath + @"\Summary."+extension;
+                string summary = summaryPath + @"\Summary." + extension;
                 Directory.CreateDirectory(summaryPath);
 
                 using (StreamWriter sw = File.AppendText(summary))
@@ -50,7 +49,7 @@ namespace Exercise
             {
                 Console.WriteLine(e.Message);
             }
-           
+
 
         }
     }

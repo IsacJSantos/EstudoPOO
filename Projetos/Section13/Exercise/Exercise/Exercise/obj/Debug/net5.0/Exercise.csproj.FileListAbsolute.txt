@@ -13,3 +13,4 @@ C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\o
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\ref\Exercise.dll
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.pdb
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.genruntimeconfig.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section13\Exercise\Exercise\Exercise\obj\Debug\net5.0\Exercise.csprojAssemblyReference.cache
