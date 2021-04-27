@@ -16,14 +16,15 @@ namespace Exercise.Entities
             Amount = amount;
         }
 
-        double TotalPrice() 
+        double TotalPrice()
         {
             return Price * Amount;
         }
         public override string ToString()
         {
-            return Name
-                + ", "
+            return "Product: "
+                + Name
+                + ", Total Price: "
                 + TotalPrice().ToString(CultureInfo.InvariantCulture);
         }
     }

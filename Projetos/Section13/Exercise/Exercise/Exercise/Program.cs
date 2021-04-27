@@ -40,7 +40,7 @@ namespace Exercise
                 {
                     foreach (var item in items)
                     {
-                        sw.WriteLine(item);
+                        sw.WriteLine("******* " + item + " *******");
                     }
                 }
 
