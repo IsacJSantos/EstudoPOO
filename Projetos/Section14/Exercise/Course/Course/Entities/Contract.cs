@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace Course.Entities
 {
@@ -16,6 +17,16 @@ namespace Course.Entities
             Number = number;
             Date = date;
             ContractValue = contractValue;
+            installments = new List<Installment>();
         }
+
+        public void InstallmentsView()
+        {
+            foreach (var item in installments)
+            {
+                Console.WriteLine($"{item.DueDate} - {item.Amount.ToString("F2",CultureInfo.InvariantCulture)}");
+            }
+        }
+
     }
 }

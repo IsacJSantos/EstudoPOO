@@ -1,6 +1,8 @@
 ﻿using System;
 using Course.Services;
 using Course.Entities;
+using System.Globalization;
+
 namespace Course
 {
     class Program
@@ -11,15 +13,15 @@ namespace Course
             Console.Write("Number: ");
             int number = int.Parse(Console.ReadLine());
             Console.Write("Date (dd/MM/yyyy): ");
-            DateTime date = DateTime.Parse(Console.ReadLine());
+            DateTime date = DateTime.ParseExact(Console.ReadLine(),"dd/MM/yyyy", CultureInfo.InvariantCulture);
             Console.Write("Contract value: ");
-            double contractValue = double.Parse(Console.ReadLine());
+            double contractValue = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             Console.Write("Enter number of insatrallmentes: ");
             int installments = int.Parse(Console.ReadLine());
 
             Contract contract = new Contract(number, date, contractValue);
             ContractService.ProcessContract(contract, installments, new PaypalService());
-
+            contract.InstallmentsView();
 
         }
     }
