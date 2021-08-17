@@ -1,0 +1,16 @@
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.exe
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.deps.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.runtimeconfig.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.runtimeconfig.dev.json
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\ref\GenericsCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\bin\Debug\net5.0\GenericsCourse.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.csproj.AssemblyReference.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.AssemblyInfoInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.AssemblyInfo.cs
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.csproj.CoreCompileInputs.cache
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\ref\GenericsCourse.dll
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.pdb
+C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section15\GenericsCourse\GenericsCourse\obj\Debug\net5.0\GenericsCourse.genruntimeconfig.cache
