@@ -6,13 +6,13 @@ namespace GenericsCourse
     {
         static void Main(string[] args)
         {
-            PrintService<float> printService = new PrintService<float>();
+            PrintService<string> printService = new PrintService<string>();
             Console.Write("How many values? ");
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < n; i++)
             {
-                float x = float.Parse(Console.ReadLine());
+                string x = Console.ReadLine();
                 printService.AddValue(x);
             }
 

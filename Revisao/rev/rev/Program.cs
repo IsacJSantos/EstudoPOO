@@ -9,7 +9,9 @@ namespace rev
     {
         static void Main(string[] args)
         {
-            string path = @"c:\temp\in.txt";
+
+            Console.WriteLine("14".CompareTo("14.5"));
+            /*string path = @"c:\temp\in.txt";
             try
             {
                 using (StreamReader sr = File.OpenText(path))
@@ -32,7 +34,7 @@ namespace rev
                 Console.WriteLine(e.Message);
             }
 
-
+            */
         }
 
     }
