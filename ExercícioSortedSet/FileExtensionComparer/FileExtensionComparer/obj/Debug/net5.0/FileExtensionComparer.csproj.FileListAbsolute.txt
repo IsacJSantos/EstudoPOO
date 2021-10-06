@@ -1,0 +1,16 @@
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.exe
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.deps.json
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.dll
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\ref\FileExtensionComparer.dll
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\bin\Debug\net5.0\FileExtensionComparer.pdb
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.dll
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\ref\FileExtensionComparer.dll
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.pdb
+E:\My Documents\Isac\EstudoPOO\ExercícioSortedSet\FileExtensionComparer\FileExtensionComparer\obj\Debug\net5.0\FileExtensionComparer.genruntimeconfig.cache
