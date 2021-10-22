@@ -1,0 +1,16 @@
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.exe
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.deps.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\ref\LogReader.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\bin\Debug\net5.0\LogReader.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\ref\LogReader.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section15\HashSetExercise\LogReader\LogReader\obj\Debug\net5.0\LogReader.genruntimeconfig.cache
