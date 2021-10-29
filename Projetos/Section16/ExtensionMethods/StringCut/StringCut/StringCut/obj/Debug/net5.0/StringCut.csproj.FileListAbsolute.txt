@@ -1,0 +1,16 @@
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.exe
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.deps.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\ref\StringCut.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\bin\Debug\net5.0\StringCut.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\ref\StringCut.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\StringCut\StringCut\StringCut\obj\Debug\net5.0\StringCut.genruntimeconfig.cache
