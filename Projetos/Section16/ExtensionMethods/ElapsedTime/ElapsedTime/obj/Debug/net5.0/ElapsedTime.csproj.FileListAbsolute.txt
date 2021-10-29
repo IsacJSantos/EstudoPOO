@@ -1,0 +1,32 @@
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.exe
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.deps.json
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.runtimeconfig.json
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.runtimeconfig.dev.json
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.dll
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ref\ElapsedTime.dll
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.pdb
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.csproj.AssemblyReference.cache
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.AssemblyInfoInputs.cache
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.AssemblyInfo.cs
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.csproj.CoreCompileInputs.cache
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.dll
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ref\ElapsedTime.dll
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.pdb
+C:\Users\isacj\source\repos\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.genruntimeconfig.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.exe
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.deps.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ref\ElapsedTime.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\bin\Debug\net5.0\ElapsedTime.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ref\ElapsedTime.dll
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.pdb
+E:\My Documents\Isac\EstudoPOO\Projetos\Section16\ExtensionMethods\ElapsedTime\ElapsedTime\obj\Debug\net5.0\ElapsedTime.genruntimeconfig.cache
