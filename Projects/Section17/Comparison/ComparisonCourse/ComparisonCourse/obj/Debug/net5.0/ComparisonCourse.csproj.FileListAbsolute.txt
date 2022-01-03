@@ -1,0 +1,16 @@
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.exe
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.deps.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ref\ComparisonCourse.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\bin\Debug\net5.0\ComparisonCourse.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ref\ComparisonCourse.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Comparison\ComparisonCourse\ComparisonCourse\obj\Debug\net5.0\ComparisonCourse.genruntimeconfig.cache
