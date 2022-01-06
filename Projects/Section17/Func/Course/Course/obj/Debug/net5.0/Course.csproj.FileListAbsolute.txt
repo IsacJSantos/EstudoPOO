@@ -1,0 +1,16 @@
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.exe
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.deps.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\ref\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\bin\Debug\net5.0\Course.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\ref\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Func\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
