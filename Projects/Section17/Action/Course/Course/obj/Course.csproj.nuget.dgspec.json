@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Predicate\\Course\\Course\\Course.csproj": {}
+    "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Action\\Course\\Course\\Course.csproj": {}
   },
   "projects": {
-    "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Predicate\\Course\\Course\\Course.csproj": {
+    "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Action\\Course\\Course\\Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Predicate\\Course\\Course\\Course.csproj",
+        "projectUniqueName": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Action\\Course\\Course\\Course.csproj",
         "projectName": "Course",
-        "projectPath": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Predicate\\Course\\Course\\Course.csproj",
+        "projectPath": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Action\\Course\\Course\\Course.csproj",
         "packagesPath": "C:\\Users\\isacj\\.nuget\\packages\\",
-        "outputPath": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Predicate\\Course\\Course\\obj\\",
+        "outputPath": "E:\\My Documents\\Isac\\EstudoPOO\\Projects\\Section17\\Action\\Course\\Course\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isacj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

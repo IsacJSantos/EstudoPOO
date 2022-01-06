@@ -14,7 +14,7 @@ namespace Course
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            list.RemoveAll(ProductTest);
+            list.RemoveAll((x) => x.Price < 100);
 
             foreach (var p in list)
             {

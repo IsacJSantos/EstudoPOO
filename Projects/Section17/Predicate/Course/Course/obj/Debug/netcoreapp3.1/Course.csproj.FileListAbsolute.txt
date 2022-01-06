@@ -11,3 +11,17 @@ C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section17\Predicate\Course\Course\obj\
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
 C:\Users\isacj\Desktop\EstudoPOO\Projetos\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+E:\My Documents\Isac\EstudoPOO\Projects\Section17\Predicate\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
